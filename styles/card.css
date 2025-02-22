@@ -1,0 +1,7 @@
+
+/* card style */
+.card-body{
+  background: linear-gradient(135deg, #1f4037, #99f2c8);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+  border: none;
+}
